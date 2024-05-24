@@ -1,7 +1,7 @@
 +++
 title = 'La seconda volta che portammo nostra madre al manicomio (frammento)'
 date = 2023-10-17T00:00:00+01:00
-draft = true
+draft = false
 +++
 [...] La seconda volta che portammo nostra madre al manicomio la siccità durava già da quattro mesi. Ricordo scorgere un piccolo branco di quattro o cinque *hyaena leuca* scorrazzare sotto le betulle piangenti a bordo strada sotto l'ultimo sole di settembre.
 
