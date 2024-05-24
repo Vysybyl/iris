@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nolano</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Nolano</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La seconda volta che portammo nostra madre al manicomio (frammento)</title>
+      <link>http://localhost:1313/posts/mia-mamma-al-manicomio/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/mia-mamma-al-manicomio/</guid>
+      <description>[&amp;hellip;] La seconda volta che portammo nostra madre al manicomio la siccità durava già da quattro mesi. Ricordo scorgere un piccolo branco di quattro o cinque hyaena leuca scorrazzare sotto le betulle piangenti a bordo strada sotto l&amp;rsquo;ultimo sole di settembre.&#xA;Nostra madre, le mani in grembo le dita intrecciate, guardava qua e là fuori dai finestrini della vettura in movimento, il mento leggermente sollevato e un&amp;rsquo;aria di regale importanza. Da quando avevamo lasciato la casa non aveva fatto alcuna domanda sulla nostra destinazione, appena qualche commento acido sulla guida maldestra di mio fratello maggiore, a cui egli non aveva risposto.</description>
+    </item>
+  </channel>
+</rss>
