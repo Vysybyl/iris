@@ -10,7 +10,10 @@ Raccolgo qui qualche idea maturata mesi fa, quando, concorde ma insoddisfatto de
 
 Un paio di anni fa un mio alunno per provocarmi mi salutò con il saluto romano e un motto fascista: il corpo insegnante lo obbligò a fare una ricerca e scrivere una tesi sulle leggi razziali. Se a questi due elementi aggiungiamo l'orrore della seconda guerra mondiale otteniamo tutte e tre quelle caratteristiche del fascismo che collettivamente siamo soliti riportare alla memoria per classificarlo
 come "sbagliato". Nell'ordine: le leggi razziali, l'entrata in guerra e la violenza politica. Primo Levi, la campagna di Russia, Matteotti.
+
+
 Se il male nel fascismo si riduce solo a questo, allora forse si può davvero sfrondare degli errori del passato, ripulire e presentare come alternativa possibile in un regime democratico? Qualcosa non tornava, eppure mi mancavano altri argomenti. Per questo ho letto più volte tutto l'articolo e vi lascio qui un riassunto delle mie riflessioni.
+
 
 Leggendo la definizione enclicopedica di fascismo scritta dal suo ideatore e dai suoi intellettuali di regime emergono tre elementi fondamentali alla sua comprensione, diversi almeno in parte da quelli ricordati di solito.
 
@@ -19,17 +22,20 @@ Leggendo la definizione enclicopedica di fascismo scritta dal suo ideatore e dai
 
 > *[...] il fascismo riafferma lo stato come la realtà vera dell'individuo. E se la libertà dev'essere l'attributo dell'uomo reale [...] il fascismo è per la libertà. E per la sola libertà che possa essere una cosa seria, la libertà dello stato e dell'individuo nello stato. Giacché per il fascista, tutto è nello stato, e nulla di umano o spirituale esiste, e tanto meno ha valore, fuori dello stato.*
 
-Non solo individui annullati nelle loro libertà, unicità, intuizioni, storie, dubbi e scelte:
- il fascismo vuole che questo annullamento sia *voluto* dall'individuo stesso, che, credendolo
+
+Non solo individui annullati nelle loro libertà, unicità, intuizioni, storie, dubbi e scelte: il fascismo vuole che questo annullamento sia *voluto* dall'individuo stesso, che, credendolo
  *moralmente superiore*, sposi il sacrificio totale di sé nello stato come suo fine ultimo, e 
  arrivi a goderne - masochisticamente - e a trovare solo in esso un senso alla sua esistenza:
 
+
 > La vita perciò quale la concepisce il fascista è seria, austera, religiosa: tutta librata in un mondo sorretto dalle forze morali e responsabili dello spirito.
+
 
 Ritorna alla mente il vecchio ritornello - *servi dei servi* - che qui assume un significato nuovo:
 non "servi dei borghesi" ma "schiavi della schiavitù".
 Per questo il fascismo si sposa tanto bene con le crisi del capitalismo: ci dà un senso, 
 ci fa superare avversità causate dall'uomo trattandole come se fossero calamità naturali, ci fa accettare dei sacrifici che non saranno mai ripagati, amandoli come prova spirituale. 
+
 
 Questa malattia dello spirito - inventata dalla religione organizzata - fornisce lavoratori e lavoratrici che rinunciano alla loro umanità e libertà. Nella forma peggiore, fornisce bande di scagnozzi e sgherri esaltati che tanto poco sopportano la propria fragilità e irrilevanza da doversi costantemente infoiare con latrati collettivi con il braccio teso, e che tanto poco sopporta la propria unicità da doversi costantemente rassicurare con l'uniformità delle divise e alimentando in sé e negli altri l'odio per il diverso[^2]. 
 
@@ -84,6 +90,6 @@ fondo con questa dottrina (la maggior parte di loro una dottrina non ce l'ha). P
 Volendo approfondire oltre i tratti politici e cercando uno sguardo più prettamente filosofico, 
 possiamo dire che il fascismo ritorna come il rigurgito ripetuto di quell'ottocento che non aveva compreso, né accettato, né superato con la leggerezza del riso o della poesia, la morte di dio e 
 la fine delle certezza. 
-Da un lato, il fascista considera solo ciò che si può vedere, e vedendo la società come una piramide non si rende conto di essere uno schiavo che adotta lo sguardo del faraone. Dall'altro, totalmente ignaro dei processi che lo fanno vivere, pensare e volere, totalmente ridotto a mente dentro un corpo, così svuotato e così terrorizzato dall'impermanenza e dalla diversità del mondo, il fascista riduce il mondo solo a un deserto, prima con il pensiero e poi nell'azione: dove una volta c'era vita c'è solo volontà senza senso, che non sapendo creare o amare si dedica solo a disciplinarsi, conquistare e annichilirsi. 
+Da un lato, il fascista considera solo ciò che si può vedere, e vedendo la società come una piramide non si rende conto di essere uno schiavo che adotta lo sguardo del faraone. Dall'altro, totalmente ignaro dei processi che lo fanno vivere, pensare e volere, totalmente ridotto a mente dentro un corpo, così svuotato e così terrorizzato dall'impermanenza e dalla diversità del mondo, il fascista riduce il mondo solo a un deserto, prima con il pensiero e poi nell'azione: dove una volta c'era vita c'è solo volontà senza senso, che non sapendo creare o amare si dedica solo a disciplinarsi, conquistare polvere e annichilirsi. 
 
 Se è così, la fine del fascismo non arriverà mai dalla protezione dalle violenze dei fascisti - che pure è profondamente necessaria - ma dall'ascolto, dalla cura, dalla creazione. Il più grande nemico del deserto fascista è il giardino umano.
