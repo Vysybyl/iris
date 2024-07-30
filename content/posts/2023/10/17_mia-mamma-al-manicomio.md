@@ -2,7 +2,6 @@
 title = 'La seconda volta che portammo nostra madre al manicomio (frammento)'
 date = 2023-10-17T00:00:00+01:00
 image = '/images/2024-07-06_bidston_observatory_kitchen.jpg'
-draft = false
 categories = ['fiction']
 #tags = ['dance']
 languages = ['it']
