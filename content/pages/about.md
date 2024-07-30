@@ -1,8 +1,8 @@
 +++
-title = "Iris"
-date = "2024-07-01"
-image = "/images/2019-07-30_toronto.jpg"
-url = "/about/" # override permalinks section of hugo.toml file
+title = 'Iris'
+date = '2024-07-01'
+image = '/iris/images/2019-07-30_toronto.jpg'
+url = '/about/' # override permalinks section of hugo.toml file
 +++
 
 Iris è un contenitore di scritti, immagini e altri materiali.
