@@ -1,4 +1,22 @@
-baseURL = 'https://example.org/'
+#baseURL = 'https://vysybyl.github.io/iris/'
+baseURL = 'https://vysybyl.github.io/iris/'
+#baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
 title = 'Iris'
 theme = 'newsroom'
+author = 'Kanthavel'
+canonifyurls = true
+paginate = 6
+
+[taxonomies]
+ category = 'categories'
+ tag = 'tags'
+ language = 'languages'
+
+#[[module.mounts]]
+#source = 'static'
+#target = 'static'
+
+#[[module.mounts]]
+#source = 'images'
+#target = 'static/images'

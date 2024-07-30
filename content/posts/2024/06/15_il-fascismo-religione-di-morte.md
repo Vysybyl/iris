@@ -2,6 +2,10 @@
 title = 'Il fascismo, religione di morte'
 date = 2024-06-15T22:56:15+02:00
 draft = false
+categories = ['philosophy']
+tags = ['politics']
+languages = ['it']
+draft = false
 +++
 
 Raccolgo qui qualche idea maturata mesi fa, quando, concorde ma insoddisfatto del [monologo di Scurati](https://roma.corriere.it/notizie/arte-e-cultura/24_aprile_20/il-monologo-di-scurati-censurato-il-testo-integrale-meloni-non-ha-mai-ripudiato-nel-suo-insieme-l-esperienza-fascista-993b89bd-20a5-447d-9406-4ee2b2a24xlk.shtml), mi ero messo a cercare la definizione di fascismo scritta da Giovanni Gentile e vidimata da Mussolini, che ricordavo vagamente esistere da qualche parte. Non l'ho mai trovata, ma sono finito a leggere l'articolo ["Fascismo" dell'Enciclopedia Italiana Treccani](https://www.treccani.it/enciclopedia/fascismo_%28Enciclopedia-Italiana%29/) del 1932[^1], un po' stupito di trovarlo online senza altro contesto. Autori: Arturo Marpicati, Benito Mussolini, Gioacchino Volpe. 
