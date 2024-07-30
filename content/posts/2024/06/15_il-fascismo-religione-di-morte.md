@@ -1,7 +1,6 @@
 +++
 title = 'Il fascismo, religione di morte'
 date = 2024-06-15T22:56:15+02:00
-draft = false
 categories = ['philosophy']
 tags = ['politics']
 languages = ['it']
