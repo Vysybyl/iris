@@ -1,7 +1,7 @@
 +++
 title = 'Dance dance dance'
 date = 2024-07-07
-image = '/images/2024-07-08_bidston_observatory_terrace.jpg'
+image = '/iris/images/2024-07-08_bidston_observatory_terrace.jpg'
 categories = ['poetry']
 tags = ['dance']
 languages = ['en']
