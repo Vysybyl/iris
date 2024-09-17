@@ -169,7 +169,7 @@ normalized_challenge_df['user_percentage'] = normalized_challenge_df['user_id'] 
 
 # Plotting
 g = normalized_challenge_df.plot.line(
-	x='points_percentage', 
+    x='points_percentage', 
     y='user_percentage',
     figsize=(8, 8),
     legend=False,
