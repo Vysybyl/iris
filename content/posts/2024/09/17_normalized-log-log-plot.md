@@ -74,8 +74,10 @@ These plots only show *ratios*, since all information about the original scales 
 lost. Nevertheless, several visual features of these plots are easily interpreted.
 
 ### Raising or falling graphs
-A raising graph indicates that very few users have collected most of the points,
-while a falling graph means that a large amount of users with very few points exist.
+A raising graph indicates that a lot of users have collected large amounts of points 
+(the population is generally whealthy),
+while a falling graph means that a large amount of users with very few points exist 
+(the population is generally poor).
 
 > A note on straight lines: one of the most common usages of log-log plots 
 is to spot power-law distributions, which in these plots appear as straight lines. 
@@ -136,5 +138,52 @@ populations of different sizes.
 
 Here is the Python code to render an NLL plot.
 ```python
+# Imports
+import uuid
+import numpy as np
+import pandas as pd
+from scipy import stats
 
+# Number of users
+size = 400
+
+# Simulating data using Poisson and power-law distributions
+poisson = stats.poisson.rvs(0.8, loc=1, size=size, random_state=1984)
+power_law = np.floor(stats.powerlaw.rvs(0.1, loc=1, scale=80, size=size, random_state=1984))
+
+# Adding some "whales"
+power_law[0] += 180
+power_law[1] += 270
+power_law[2] += 570
+
+# Creating the dataframe
+challenge_df = pd.DataFrame(poisson + power_law, columns=['points'])
+# Adding random user IDs
+challenge_df['user_id'] = [str(uuid.uuid4()) for _ in range(size)]
+
+# Grouping and normalization
+total_points = challenge_df['points'].sum()
+normalized_challenge_df = challenge_df.groupby('points')[['user_id']].count().reset_index()
+normalized_challenge_df['points_percentage'] = normalized_challenge_df['points'] / total_points * 100
+normalized_challenge_df['user_percentage'] = normalized_challenge_df['user_id'] / size * 100
+
+# Plotting
+g = normalized_challenge_df.plot.line(
+	x='points_percentage', 
+    y='user_percentage',
+    figsize=(8, 8),
+    legend=False,
+    grid=True,
+    logx=True, 
+    logy=True,
+    title='A normalized log-log plot',
+    style='s-'
+)
+ticks = [10**(i) for i in range(-1, 3)]
+ticklabels =  [f"{i:.1f}%" for i in ticks]
+g.set_xticks(ticks)
+g.set_yticks(ticks)
+g.set_xticklabels(ticklabels)
+g.set_yticklabels(ticklabels)
+g.set(xlabel="% of points", ylabel="% of users")
 ```
