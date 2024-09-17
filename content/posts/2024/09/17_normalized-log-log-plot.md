@@ -1,7 +1,7 @@
 +++
 title = 'The normalized log-log plot'
 date = 2024-09-15
-image = '/iris/static/images/2023-05-20_amsterdam_nxt_museum.jpg'
+image = '/iris/images/2023-05-20_amsterdam_nxt_museum.jpg'
 categories = ['science']
 tags = ['data-science', 'maths']
 languages = ['en']
