@@ -65,10 +65,11 @@ Chiudono i vecchi della *Casa do Minho*,
 quelli del *Lusitano*[^14]. L'unico eroe  
 è *Manuel Mato Sousa* che in piedi nella disfatta  
 non porta una pistola alla tempia ma una *bifana* alla bocca  
-e muore, *caralho*, soffocato di un tuo sapore[^15].  
+e muore, *caralho*, soffocato di un tuo sapore[^15].
+
 La colpa è mia. Non mi è mai bastato il tuo ultimo fiore,  
 ne volevo un altro, ma non pensato ancora:  
-la mostra nell'*andar em obras*, la tua amica ballerina, la sera stessa della festa  
+la mostra nell'*andar em obras*[^16], la tua amica ballerina, la sera stessa della festa  
 in cui mi portasti per mano nell'oscurità  
 del tuo giardino e allungata tra le mie braccia  
 e il fusto stretto della magnolia mi porgi il retro del collo  
@@ -105,5 +106,6 @@ era poco frequentata e pressoché deserta la sera.
 [^14]: [Associazione culturale](https://pt.wikipedia.org/wiki/Ateneu_Comercial_de_Lisboa) con sede in un centralissimo palazzo storico. Piscina, scuola di danza, ecc. Per accedere al bar al primo piano si
 passava per la palestra con campetto da basket.
 [^15]:[Il signor Sousa](https://www.cmjornal.pt/portugal/detalhe/morre-sufocado-em-restaurante-de-luxo) - grasso, rubicondo, sornione - serviva bicchieri di ginja alla "*Ginja sem Rival*". Muore soffocato mangiando un panino con la bistecca nel ristorante di lusso *Gambrinus*, lì accanto. Ridendo, credo io.  
-
-
+[^16]: Associazione? Occupazione? Da qualche parte vicino a *praça dos Restauradores* qualcuno
+mi porta al primo piano di un palazzo. L'appartamento è sventrato dai lavori (*obras*),
+qualcuno ha tirato delle prolunghe, installato delle luci al neon e riempito lo spazio di opere d'arte.
