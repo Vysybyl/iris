@@ -1,6 +1,7 @@
 +++
 title = 'Lisboa'
 date = 2024-05-04T22:00:00+00:00
+image = '/iris/images/2021-12-07_praca_do_comercio.jpg'
 categories = ['poetry']
 tags = ['lisboa']
 languages = ['it']
@@ -90,8 +91,7 @@ saluti che ci siamo detti,
 [^2]:La seconda, la terza e forse la quarta volta che arrivai a Lisbona, dall'Alentejo,
 la radio dell'autobus o le cuffie del lettore MP3 stavano dando questa canzone.
 [^3]:Se tu non fossi stata portoghese non ci avrebbero mai fatto entrare. Il locale accanto   
-a *largo de São Miguel* (o *das palmeiras*, le palme erano ancora lì, non ancora mangiate dallo *escaravelho-vermelho*) era strapieno, siamo rimasti sulla soglia appoggiati  
-alla porta chiusa.
+a *largo de São Miguel* (o *das palmeiras*, le palme erano ancora lì, non ancora mangiate dallo *escaravelho-vermelho*) era strapieno, siamo rimasti sulla soglia appoggiati alla porta chiusa.
 [^4]: Chitarra classica. La viola è *viola d'arco*
 [^5]: [*O segredo do futuro* - Madredeus](https://www.youtube.com/watch?v=QySx1AW_hks)
 [^6]: Due delle dodici vocali portoghesi.
