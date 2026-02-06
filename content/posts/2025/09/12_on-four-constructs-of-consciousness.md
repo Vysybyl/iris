@@ -1,6 +1,6 @@
 +++
 title = 'On four constructs of consciousness and their aporiai'
-date = 2025-01-04T22:00:00+00:00
+date = 2025-09-12T22:00:00+00:00
 image = '/iris/images/2021-12-07_praca_do_comercio.jpg'
 categories = ['philosophy']
 tags = ['consciousness']
